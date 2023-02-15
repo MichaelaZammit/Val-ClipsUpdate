@@ -1,0 +1,27 @@
+.bg-custom{
+    background-color: #BE0000;
+}
+
+
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+
+footer ul{
+    list-style: none;
+    padding-left:0;
+}
+
+img {
+    border-radius: 50%;
+    margin-left: 1em;
+  }
+
+
+BODY{
+    color: WHITE;
+    text-align: center;
+}

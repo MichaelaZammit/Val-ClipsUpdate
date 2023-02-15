@@ -1,0 +1,29 @@
+
+.bg-custom{
+    background-color: #BE0000;
+}
+
+
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+
+footer ul{
+    list-style: none;
+    padding-left:0;
+}
+
+.col {
+    margin: auto 0px;
+    display: block;
+    text-align: center;
+    color: white
+}
+
+BODY{
+    color: WHITE;
+    text-align: center;
+}
